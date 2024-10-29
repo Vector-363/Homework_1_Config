@@ -2,7 +2,7 @@
 
 Командная строка на python (вариант №26)
 
-ссылка
+[ссылка](https://github.com/Vector-363/Homework_1_Config/tree/main/Command_line)
 
 Постановка задачи: 
 
