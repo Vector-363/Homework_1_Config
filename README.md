@@ -38,18 +38,23 @@ tar. Эмулятор должен работать в режиме GUI.
 
 ls - вывод содержимого текущего каталога
 cd - перейти в каталог
+
 3. echo
 
 ![image](https://github.com/user-attachments/assets/f3e1ffc8-8a96-48b4-9ac9-ace498ce4caa)
 
+echo - вывести аргумент
 4. mv
 
 ![image](https://github.com/user-attachments/assets/4ce72795-5028-4de2-a27f-52cc6b6fa3fe)
+
+mv - переместить или переименовать каталог
 
 5. du
 
 ![image](https://github.com/user-attachments/assets/fb55aec4-1682-47d3-983f-005990283346)
 
+du - вывести размер файла или каталога
 
 Также результаты автоматического тестирования:
 
