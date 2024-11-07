@@ -36,6 +36,8 @@ tar. Эмулятор должен работать в режиме GUI.
 
 ![image](https://github.com/user-attachments/assets/72082d20-1e6d-4c9e-b402-e76c93819895)
 
+ls - вывод содержимого текущего каталога
+cd - перейти в каталог
 3. echo
 
 ![image](https://github.com/user-attachments/assets/f3e1ffc8-8a96-48b4-9ac9-ace498ce4caa)
