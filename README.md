@@ -50,6 +50,8 @@ tar. Эмулятор должен работать в режиме GUI.
 
 
 Также результаты автоматического тестирования:
+
 Ссылка на код тестрования: https://github.com/Vector-363/Homework_1_Config/blob/main/Command_line/.venv/TestSystem.py
+
 ![image](https://github.com/user-attachments/assets/b77e6f05-180e-444c-9470-40e068053fab)
 
