@@ -44,6 +44,7 @@ cd - перейти в каталог
 ![image](https://github.com/user-attachments/assets/f3e1ffc8-8a96-48b4-9ac9-ace498ce4caa)
 
 echo - вывести аргумент
+
 4. mv
 
 ![image](https://github.com/user-attachments/assets/4ce72795-5028-4de2-a27f-52cc6b6fa3fe)
