@@ -28,20 +28,25 @@ tar. Эмулятор должен работать в режиме GUI.
 поддерживаемых команд необходимо написать 2 теста.
 
 Интерфейс и пример работы нескольких команд
+
 ![image](https://github.com/user-attachments/assets/a6ac06dc-bb2f-4c5a-9f08-847bdcc8992d)
 
 Тестирование команд:
 1. ls и cd
+
 ![image](https://github.com/user-attachments/assets/72082d20-1e6d-4c9e-b402-e76c93819895)
-2. echo
+3. echo
+
 ![image](https://github.com/user-attachments/assets/f3e1ffc8-8a96-48b4-9ac9-ace498ce4caa)
-3. mv
+4. mv
+
 ![image](https://github.com/user-attachments/assets/4ce72795-5028-4de2-a27f-52cc6b6fa3fe)
-4. du
+5. du
+
 ![image](https://github.com/user-attachments/assets/fb55aec4-1682-47d3-983f-005990283346)
 
 
 Также результаты автоматического тестирования:
-Ссылка на код тестрования: 
+Ссылка на код тестрования: https://github.com/Vector-363/Homework_1_Config/blob/main/Command_line/.venv/TestSystem.py
 ![image](https://github.com/user-attachments/assets/b77e6f05-180e-444c-9470-40e068053fab)
 
