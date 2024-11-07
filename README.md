@@ -35,12 +35,15 @@ tar. Эмулятор должен работать в режиме GUI.
 1. ls и cd
 
 ![image](https://github.com/user-attachments/assets/72082d20-1e6d-4c9e-b402-e76c93819895)
+
 3. echo
 
 ![image](https://github.com/user-attachments/assets/f3e1ffc8-8a96-48b4-9ac9-ace498ce4caa)
+
 4. mv
 
 ![image](https://github.com/user-attachments/assets/4ce72795-5028-4de2-a27f-52cc6b6fa3fe)
+
 5. du
 
 ![image](https://github.com/user-attachments/assets/fb55aec4-1682-47d3-983f-005990283346)
